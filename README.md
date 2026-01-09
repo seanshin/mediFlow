@@ -1,6 +1,7 @@
 # medi_connect
 
 A new Flutter project.
+첫번째. 테스트용 프로토타입. 단순하게 Flutter로 구성됨.
 
 ## Getting Started
 
